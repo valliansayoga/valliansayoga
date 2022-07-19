@@ -1,6 +1,6 @@
 - I’m @valliansayoga
-- I’m interested in Dota 2, pixel arts, and computer
-- I’m currently learning Python 3 and Data Science
+- I’m interested in Dota 2, pixel arts, and data science
+- I’m currently employed as a data analyst and scientist at PT Bank Mandiri (Persero) Tbk., Indonesia
 
 
 <!---
