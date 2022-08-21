@@ -1,9 +1,5 @@
-- I’m @valliansayoga
-- I’m interested in Dota 2, pixel arts, and data science
-- I’m currently employed as a data analyst and scientist at PT Bank Mandiri (Persero) Tbk., Indonesia
+# A short intro
+I am Vallian Sayoga. My background is agriculture study, but it did not stop me to learn about data science and analysis.  
+Currently I am employed at one of the biggest government owned banks in Indonesia.
 
-
-<!---
-valliansayoga/valliansayoga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can find me on [LinkedIn](https://www.linkedin.com/in/vallian97/)
